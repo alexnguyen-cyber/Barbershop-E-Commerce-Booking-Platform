@@ -10,10 +10,10 @@ Developed a responsive, modern website for a local small business to streamline 
 
 <h2>Utilities Used</h2>
 
-- <b>Cursor</b>
 - <b>Claude</b>
-- <b>Vercel</b>
+- <b>Cursor</b>
 - <b>Stripe</b>
+- <b>Vercel</b>
 
 ## [Website](https://barbershop-website-with-stripe.vercel.app/)
 
